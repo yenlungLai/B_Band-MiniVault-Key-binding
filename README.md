@@ -1,4 +1,4 @@
-# B_Band-MiniVault-Key-binding
+# Secure Secret Sharing Enabled b-band Mini Vaults Bio-Cryptosystem for Vectorial Biometrics
 
 This repository contains MATLAB source code for B-Band fuzzy vault.
 Reference:
